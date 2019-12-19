@@ -1,0 +1,9 @@
+
+<readings><reading><time>Wed Dec 18 23:38:17 2019
+</time><temperature>9</temperature></reading><reading><time>Wed Dec 18 23:38:27 2019
+</time><temperature>14</temperature></reading><reading><time>Wed Dec 18 23:38:37 2019
+</time><temperature>10</temperature></reading><reading><time>Wed Dec 18 23:38:47 2019
+</time><temperature>13</temperature></reading><reading><time>Wed Dec 18 23:38:57 2019
+</time><temperature>14</temperature></reading><reading><time>Wed Dec 18 23:39:07 2019
+</time><temperature>14</temperature></reading><reading><time>Wed Dec 18 23:39:17 2019
+</time><temperature>19</temperature></reading></readings>
